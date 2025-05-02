@@ -45,7 +45,7 @@
 &kp TAB        &kp Q     &kp W             &kp E         &kp R      &kp T      &kp Y      &kp U            &kp I          &kp O              &kp P       &kp MINUS
 &kp BACKSLASH  &kp A     &kp S             &kp D         &kp F      &kp G      &kp H      &kp J            &kp K          &kp L              &kp SEMI    &kp SQT
 &kp LSHFT      &kp Z     &kp X             &kp C         &kp V      &kp B      &kp N      &kp M            &kp COMMA      &kp DOT            &kp FSLH    &kp RSHFT
-&none          &kp LGUI  &kp LEFT_CONTROL  &kp LEFT_ALT  &mo LOWER  &kp SPACE  &kp ENTER  &mo RAISE        &kp RIGHT_ALT  &kp RIGHT_CONTROL  &kp DELETE
+&kp K_MUTE     &kp LGUI  &kp LEFT_CONTROL  &kp LEFT_ALT  &mo LOWER  &kp SPACE  &kp ENTER  &mo RAISE        &kp RIGHT_ALT  &kp RIGHT_CONTROL  &kp DELETE
                                                                                &kp ENTER  &kp RIGHT_ARROW  &kp UP         &kp LEFT_ARROW     &kp DOWN
             >;
 
