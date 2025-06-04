@@ -1,8 +1,8 @@
 layout: {zmk_keyboard: sofle_ergomech}
 layers:
   default: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '=', ESCAPE, Q, W, E, R, T, Y, U, I, O, P, BACKSPACE, TAB, A, S, D, F, G, H, J, K, L, ;, '''',
-    \, Z, X, C, V, B, N, M, ',', ., /, DELETE, LEFT WIN, LEFT SHIFT, LEFT CONTROL, LEFT ALT, lower, SPACE, ENTER, raise, RIGHT ALT, RIGHT CONTROL, RIGHT SHIFT, LEFT
-      WIN, RIGHT, UP ARROW, LEFT, DOWN]
+    \, Z, X, C, V, B, N, M, ',', ., /, DELETE, '&mkp LCLK', LEFT ALT, LEFT CONTROL, LEFT SHIFT, lower, SPACE, ENTER, raise, RIGHT SHIFT, RIGHT CONTROL, RIGHT ALT,
+    '&mkp RCLK', '&mmv MOVE_RIGHT', '&mmv MOVE_UP', '&mmv MOVE_LEFT', '&mmv MOVE_DOWN']
   lower:
   - '&studio_unlock'
   - F1
